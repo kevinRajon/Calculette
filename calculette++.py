@@ -1,4 +1,4 @@
-# Boucle infinie pour demander un premier nombre
+# Boucle infinie pour demander un premier nombre T
 while True:
     try:
         # Demande à l'utilisateur d'entrer un nombre
